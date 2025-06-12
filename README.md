@@ -1,27 +1,36 @@
-💘 Página de Homenagem – Dia dos Namorados
-Este projeto é uma homenagem romântica, construída em HTML e CSS puro, dedicada ao Dia dos Namorados. A página celebra o amor com uma mensagem emocional, estilo visual suave e recursos de responsividade. Foi pensada como um presente digital personalizado e afetivo, destacando a importância da conexão humana através da tecnologia.
+# 💖 Página Especial – "Para Minha Nenê" | Dia dos Namorados
 
-🧠 Conceito
-A ideia central é mostrar como o desenvolvimento web pode ser utilizado para expressar sentimentos de forma criativa e significativa. Utilizando apenas tecnologias front-end nativas, a página exibe uma mensagem de carinho com uma estética leve e romântica, tornando o conteúdo tocante e memorável.
+Uma homenagem 100% personalizada, desenvolvida com foco em elegância, responsividade e performance, utilizando apenas HTML5 e CSS3 puro. Este projeto representa não apenas um gesto romântico, mas também uma demonstração técnica de como o front-end pode transmitir emoções através de design minimalista, estrutura semântica e experiências visuais cuidadosamente planejadas.
 
-📸 Funcionalidades
-🎨 Design Responsivo com @media implícito via viewport, ideal para dispositivos móveis.
+---
 
-❤️ Tipografia personalizada via Google Fonts (Poppins).
+## 🧠 Propósito
 
-🌈 Fundo com gradiente romântico em tons pastel.
+Criar uma experiência web afetuosa, leve e simbólica, idealizada como presente digital no Dia dos Namorados. A página une código limpo com emoção, transmitindo carinho através da estética visual, tipografia elegante e uma mensagem emocional central.
 
-🖼️ Imagem personalizada embutida via base64, para fácil distribuição e visualização offline.
+---
 
-💬 Texto poético e emocional, com hierarquia visual clara.
+## 🔧 Tecnologias e Abordagens
 
-🖋️ Créditos no rodapé, mantendo a autoria do criador visível com elegância.
+| Tecnologia | Aplicação |
+|------------|-----------|
+| `HTML5`    | Estrutura semântica e acessível, com foco em clareza e simplicidade |
+| `CSS3`     | Gradiente, sombras suaves, tipografia importada e layout responsivo |
+| `Google Fonts` | Integração da fonte `Poppins` para reforçar a estética moderna |
+| `Imagem base64` | Eliminação de dependências externas para portabilidade total |
+| `Design Responsivo` | Adaptação automática a diferentes dispositivos e telas |
 
-🛠️ Tecnologias Utilizadas
-HTML5
+---
 
-CSS3
+## 🎨 Highlights Técnicos
 
-Google Fonts
+- ✅ Interface fluida com foco em legibilidade e conforto visual
+- ✅ Estilo romântico com paleta suave (`#ffe6f0` a `#f9f9ff`)
+- ✅ Tipografia com hierarquia visual clara (títulos, mensagens, assinatura)
+- ✅ Imagem embutida em base64, permitindo envio do HTML como arquivo único
+- ✅ Código preparado para expansão com animações, som ou interatividade
 
-Base64 para imagens inline (ideal para hospedagem local sem dependências externas)
+---
+
+## 📂 Estrutura do Projeto
+
